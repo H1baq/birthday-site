@@ -154,7 +154,7 @@ export default function App() {
           </div>
 
           <h3 className="finalMessage">
-           お誕生日おめでとう！大好きだよ！ 🎂✨
+           お誕生日おめでとう！ 🎂✨
           </h3>
 
           <div className="navButtons">
